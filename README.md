@@ -4,4 +4,6 @@
 ![made-with-JQuery](https://img.shields.io/badge/Jquery-3.5-0769AD?style=for-the-badge&logo=jQuery)
 
 In the `HTML` file, i've made a tic tac toe game (as shown below) using HTML, CSS and javascript based frameworks.
+
+
 ![](Readme_Image.png)
